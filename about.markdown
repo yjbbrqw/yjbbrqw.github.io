@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## YJBBRQW的牢骚
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+姓名：刘子欣
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+性转名：刘欣欣
 
+英文名：YJBBRQW
 
-[jekyll-organization]: https://github.com/jekyll
+艺名：夕林梦
+
+特长：抑郁症发作然后氪金（？）
+
+目前正在玩的游戏：明日方舟，原神
+
+请多关照！
