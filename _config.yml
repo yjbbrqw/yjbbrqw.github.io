@@ -23,7 +23,7 @@ email: yjbbrqw@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   欢迎来到夕林梦的抑郁小屋QAQ
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "yjbbrqw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yjbbrqw
 github_username:  yjbbrqw
 
